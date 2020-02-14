@@ -41,7 +41,7 @@ body {
   text-shadow: 0.2rem 0.2rem 0.5rem rgba(0, 0, 0, 0.3);
 }
 
-button {
+.btn {
   height: 4rem;
   margin-right: 2rem;
   display: flex;
